@@ -1,0 +1,14 @@
+# Never commit the browser DNS-rebinding harness / collector / evidence (withheld)
+rebind*/
+*collector*
+*playwright*
+runner/
+evidence/
+*.zip
+transcript*.json*
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
